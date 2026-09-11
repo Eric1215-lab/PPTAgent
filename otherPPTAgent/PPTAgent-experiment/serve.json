@@ -1,0 +1,10 @@
+{
+  "language": {
+    "model": "gpt-4o-2024-08-06",
+    "url": "https://jeniya.top/v1"
+  },
+  "vision": {
+    "model": "gpt-4o-2024-08-06",
+    "url": "https://jeniya.top/v1"
+  }
+}
